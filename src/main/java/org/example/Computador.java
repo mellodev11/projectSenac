@@ -31,9 +31,6 @@ public class Computador {
         System.out.println("Placa de Video: " + computador.getPlacaDeVideo());
         System.out.println("Teclado: " + computador.getTeclado());
 
-
-
-
     }
 
 
